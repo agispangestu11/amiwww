@@ -83,5 +83,5 @@ equalsButton.addEventListener('click', function() {
 });
 
 function printILY(){
-  document.getElementById("output-value").innerText="Love you ❤️";
+  document.getElementById("output-value").innerText="LOVE U NAJMI 🌻";
 }
